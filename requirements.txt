@@ -1,0 +1,6 @@
+openai
+tiktoken
+python-dotenv
+pinecone
+pypdf
+unstructured[pdf]
